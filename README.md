@@ -1,0 +1,2 @@
+# MyAi
+trying it out
